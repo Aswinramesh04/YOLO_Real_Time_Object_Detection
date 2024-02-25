@@ -11,4 +11,5 @@ Screenshots
 ![image](https://github.com/Aswinramesh04/YOLO_Real_Time_Object_Detection/assets/111281325/c3811356-f53e-4c68-8e86-269299880fa8)
 
 Videos
-![video](D:\yolov8\yolov8_window\output.avi)
+![video](https://github.com/Aswinramesh04/YOLO_Real_Time_Object_Detection/assets/111281325/40ae441d-b208-41d1-807d-276f883fb513)
+
