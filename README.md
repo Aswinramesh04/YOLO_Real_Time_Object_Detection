@@ -20,5 +20,9 @@ https://github.com/Aswinramesh04/YOLO_Real_Time_Object_Detection/assets/11128132
 
 https://github.com/Aswinramesh04/YOLO_Real_Time_Object_Detection/assets/111281325/f194eee1-6f8c-43d5-8ef4-8044fd9659d3
 
+# Flask Website with photo/Video upload and webcam 
+![image](https://github.com/Aswinramesh04/YOLO_Real_Time_Object_Detection/assets/111281325/15b257f8-2aeb-4564-b5de-6467454fb896)
+
+
 
 
